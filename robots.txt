@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-p8gkgm.shadowdiary.com/sitemap.xml
